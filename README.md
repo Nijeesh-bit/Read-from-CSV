@@ -25,7 +25,8 @@ print("Number of columns:",len(df.axes[1]))
 ## OUTPUT:
 #### program file
 <img width="673" alt="image" src="https://github.com/Nijeesh-bit/Read-from-CSV/assets/89188014/0cedb2c3-520b-4ba6-9478-97986bbf49c5">
-
+<br>
+<br>
 #### output:
 <img width="960" alt="image" src="https://github.com/Nijeesh-bit/Read-from-CSV/assets/89188014/e7837c6c-10a3-4ee3-a890-b30f6f2ab089">
 
